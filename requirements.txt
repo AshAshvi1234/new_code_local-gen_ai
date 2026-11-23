@@ -1,0 +1,10 @@
+langchain-text-splitters
+chromadb
+langchain-chroma
+langchain-community
+langchain-openai
+python-dotenv
+langchain-huggingface
+sentence_transformers
+rank-bm25 
+langchain-classic
